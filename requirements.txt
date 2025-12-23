@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-text-splitters
+transformers
+jupyter
+python-dotenv
+tiktoken
